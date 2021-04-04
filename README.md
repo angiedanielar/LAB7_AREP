@@ -51,10 +51,10 @@ mvn package
 mvn exec:java -D "exec.mainClass"="edu.escuelaing.arep.app.App"
 ```
 
-And put in your browser: https://localhost:5000
+And put in your browser: https://localhost:4767
 
 
-- Example to use: https://localhost:5000/celcius?value=20
+- Example to use: https://localhost:4767/celcius?value=20
 
 
 4. Executing the SERVICE program:
